@@ -1,0 +1,35 @@
+﻿---
+ID: "1a295d18-3374-49f8-a224-3dbbde84839c"
+Parent: "677f7324-fc7e-4a93-9af3-79c408bfd6a7"
+Template: "1105b8f8-1e00-426b-bf1f-c840742d827b"
+Path: "/sitecore/content/sitecoredemo-jp/sitecoredemo-jp/Presentation/Page Designs/Default"
+SharedFields:
+- ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
+  Hint: PartialDesigns
+  Value: "{0E11AF5D-EC22-41DC-9365-425DC6399D7C}|{A6245DF4-7E1A-443D-80EC-F53C2B7C7124}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220915T070311Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\shinhara@sitecore.net
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\shinhara@sitecore.net
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d1b09434-2d4e-4377-9d81-7cfe8bb81c0f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shinhara@sitecore.net
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220915T070315Z

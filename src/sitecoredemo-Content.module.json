@@ -1,0 +1,18 @@
+{
+    "namespace": "sitecoredemo-Content",
+    "references": [
+        "sitecoredemo"
+    ],
+    "items": {
+        "includes": [
+            {
+                "name": "content",
+                "path": "/sitecore/content/sitecoredemo-jp"
+            },
+            {
+                "name": "media",
+                "path": "/sitecore/media library/Project/sitecoredemo-jp"
+            }
+        ]
+    }
+}

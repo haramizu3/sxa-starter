@@ -1,0 +1,22 @@
+{
+    "namespace": "sitecoredemo",
+    "references": [
+        "InitItems"
+    ],
+    "items": {
+        "includes": [
+            {
+                "name": "placeholders",
+                "path": "/sitecore/layout/Placeholder Settings/Project/sitecoredemo-jp"
+            },
+            {
+                "name": "renderings",
+                "path": "/sitecore/layout/Renderings/Project/sitecoredemo-jp"
+            },
+            {
+                "name": "templates",
+                "path": "/sitecore/templates/Project/sitecoredemo-jp"
+            }
+        ]
+    }
+}

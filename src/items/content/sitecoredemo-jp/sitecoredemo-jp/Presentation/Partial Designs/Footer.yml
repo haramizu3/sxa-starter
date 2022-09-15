@@ -1,0 +1,68 @@
+﻿---
+ID: "0e11af5d-ec22-41dc-9365-425dc6399d7c"
+Parent: "858c519e-23a5-450d-8964-f011de9c58d5"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: "/sitecore/content/sitecoredemo-jp/sitecoredemo-jp/Presentation/Partial Designs/Footer"
+BranchID: "8204a950-cbaa-4d06-878b-11ced5ddc1ad"
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: footer
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{A598B466-FDF3-4EE1-BACF-0F437578B3A9}"
+          p:before="*"
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="?Styles=%7b653061CA-4E5F-46FE-A361-B5B2F4A1362C%7d%7c%7b4E3D5703-7C67-4E59-9D7F-BD4C0A33852B%7d%7c%7b928EE840-7607-4643-BD29-7D5010D6208C%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d&amp;DynamicPlaceholderId=1"
+          s:ph="headless-footer" />
+        <r
+          uid="{4ECBBE8B-47BD-4F05-A867-067D937FC53B}"
+          p:after="r[@uid='{A598B466-FDF3-4EE1-BACF-0F437578B3A9}']"
+          s:ds="local:/Data/Address"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?Styles=%7b485AA93E-120A-407D-B997-AB465824816F%7d&amp;FieldNames=%7b0D1AC289-7D39-4477-BD57-5A5075A881EA%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b31A49E90-E4B4-4F04-A3C7-E15B6835990F%7d"
+          s:ph="/headless-footer/container-1" />
+        <r
+          uid="{AF40329B-BB06-407C-A8EC-0042CCA37CA5}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Contact info"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?Styles=%7b485AA93E-120A-407D-B997-AB465824816F%7d&amp;FieldNames=%7b0D1AC289-7D39-4477-BD57-5A5075A881EA%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b31A49E90-E4B4-4F04-A3C7-E15B6835990F%7d"
+          s:ph="/headless-footer/container-1" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{EDB00EAA-5ACA-4C4D-8B88-3195D992F980}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220915T070311Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\shinhara@sitecore.net
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\shinhara@sitecore.net
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f3097976-fcb2-4d7d-9433-b16706ebf19d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shinhara@sitecore.net
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220915T070315Z
