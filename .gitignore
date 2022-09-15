@@ -79,4 +79,4 @@ packages/
 /src/rendering/src/temp/!GraphQLFragmentTypes.json
 /src/rendering/src/temp/!GraphQLIntrospectionResult.json
 
-/.env
+.env
